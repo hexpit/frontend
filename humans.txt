@@ -1,0 +1,38 @@
+/* TEAM */
+	Developer: Vijay Goswami
+	Contact: vijaygoswami [at] attrixtech.com
+	Twitter: @hexpit
+	From: Agra, Uttar Pradesh, India
+
+	UI developer: Vijay Goswami
+	Twitter: @hexpit
+	From: Agra, Uttar Pradesh, India
+
+	Contribution: Neha Goswami
+	From: Agra, Uttar Pradesh, India
+	
+	Developer: Ankit Agarwal
+	Contact: ankitagarwal [at] attrixtech.com
+	Twitter: 
+	From: Agra, Uttar Pradesh, India
+	
+	
+	Content-Writer: Shakti Chaturvedi
+	Contact: shakti [at] attrixtech.com
+	From: Agra, Uttar Pradesh, India
+
+/* THANKS */
+
+	(First) EN Translator: Shakti Chaturvedi
+	Twitter: 
+	From: Agra, Uttar Pradesh, India
+
+	
+	Media Queries by: Vijay Goswami (@attrixtech) and Tejas Goswami (@tejasboy)
+		
+
+/* SITE */
+	Last update: 2016/10/22
+	Language: English
+	Doctype:HTML5
+	IDE: Sublime Text, Notepad++, FileZilla, Photoshop, Coda2, Canva
